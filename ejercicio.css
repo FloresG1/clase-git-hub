@@ -1,3 +1,4 @@
+
 #fondo{
     background-color: aquamarine;
     color: black;
@@ -13,4 +14,13 @@
 }
 .imagen{
     border-radius: 20%;
+}
+
+.encabezado{
+    background-color: brown;
+    color: white;
+}
+.piePag{
+    background-color: brown;
+    color: white;
 }
